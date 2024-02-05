@@ -7,4 +7,4 @@ Aqui serão armazenados todos os trabalhos da Unidade Curricular de Engenharia W
 
 - **Nome:** Diogo Ribeiro Vassalo de Abreu
 - **ID:** A100646
-- **Foto:** ![Fotografia do Aluno] (fotopasse.jpg)
+- **Foto:** ![Fotografia do Aluno](fotopasse.jpg)
