@@ -1,4 +1,4 @@
-# TTPC5 - Compositores de Música (Com Pug + Express)
+# TPC5 - Compositores de Música (Com Pug + Express)
 
 # Resumo
 
